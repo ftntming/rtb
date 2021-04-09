@@ -1,0 +1,156 @@
+2021-04-08 20:47:30.428 [info] <0.33.0> Application lager started on node rtb@localhost
+2021-04-08 20:47:30.428 [notice] <0.84.0>@lager_file_backend:152 Changed loghwm of log/rtb.log to 10000
+2021-04-08 20:47:30.431 [info] <0.33.0> Application crypto started on node rtb@localhost
+2021-04-08 20:47:30.457 [info] <0.33.0> Application inets started on node rtb@localhost
+2021-04-08 20:47:30.459 [info] <0.33.0> Application p1_utils started on node rtb@localhost
+2021-04-08 20:47:30.462 [info] <0.33.0> Application fast_yaml started on node rtb@localhost
+2021-04-08 20:47:30.463 [info] <0.33.0> Application oneup started on node rtb@localhost
+2021-04-08 20:47:30.470 [info] <0.33.0> Application asn1 started on node rtb@localhost
+2021-04-08 20:47:30.470 [info] <0.33.0> Application public_key started on node rtb@localhost
+2021-04-08 20:47:30.484 [info] <0.33.0> Application ssl started on node rtb@localhost
+2021-04-08 20:47:30.485 [info] <0.33.0> Application cowlib started on node rtb@localhost
+2021-04-08 20:47:30.487 [info] <0.33.0> Application gun started on node rtb@localhost
+2021-04-08 20:47:30.489 [info] <0.142.0>@rtb_config:load_config:84 Loading configuration from rtb.yml
+2021-04-08 20:47:30.497 [info] <0.33.0> Application fast_xml started on node rtb@localhost
+2021-04-08 20:47:30.499 [info] <0.33.0> Application stringprep started on node rtb@localhost
+2021-04-08 20:47:30.504 [info] <0.33.0> Application fast_tls started on node rtb@localhost
+2021-04-08 20:47:30.509 [info] <0.33.0> Application ezlib started on node rtb@localhost
+2021-04-08 20:47:30.517 [info] <0.33.0> Application xmpp started on node rtb@localhost
+2021-04-08 20:47:30.517 [info] <0.142.0>@rtb_config:prep_option:405 Capacity is 10 sessions
+2021-04-08 20:47:30.527 [info] <0.142.0>@rtb_config:prep_option:452 Found /usr/bin/gnuplot 5.2 patchlevel 2
+2021-04-08 20:47:30.527 [info] <0.142.0>@rtb_config:prep_option:402 Arrival rate is 10.0 conn/sec
+2021-04-08 20:47:30.549 [info] <0.142.0>@rtb_config:check_files_limit:244 Maximum available files from ulimit: 1024
+2021-04-08 20:47:30.549 [info] <0.142.0>@rtb_config:check_files_limit:245 Maximum available files from fs.file-max: 6269055
+2021-04-08 20:47:30.549 [info] <0.142.0>@rtb_config:check_files_limit:246 Maximum available files from fs.nr_open: 1048576
+2021-04-08 20:47:30.549 [info] <0.142.0>@rtb_config:check_process_limit:258 Maximum available Erlang processes: 65536
+2021-04-08 20:47:30.549 [info] <0.142.0>@rtb_config:check_port_limit:271 Maximum available Erlang ports: 65536
+2021-04-08 20:47:30.607 [info] <0.141.0>@rtb_http:start_link:37 Accepting HTTP connections on port 8080
+2021-04-08 20:47:30.629 [info] <0.33.0> Application sasl started on node rtb@localhost
+2021-04-08 20:47:30.638 [info] <0.33.0> Application os_mon started on node rtb@localhost
+2021-04-08 20:47:30.638 [info] <0.33.0> Application rtb started on node rtb@localhost
+2021-04-08 20:47:30.658 [critical] <0.192.0>@rtb:halt:123 Benchmark failure: Authentication failed: Peer responded with error: Invalid username or password (not-authorized)
+2021-04-08 20:47:30.658 [info] <0.33.0> Application sasl exited with reason: stopped
+2021-04-08 21:14:14.344 [info] <0.33.0> Application lager started on node rtb@localhost
+2021-04-08 21:14:14.344 [notice] <0.84.0>@lager_file_backend:152 Changed loghwm of log/rtb.log to 10000
+2021-04-08 21:14:14.348 [info] <0.33.0> Application crypto started on node rtb@localhost
+2021-04-08 21:14:14.376 [info] <0.33.0> Application inets started on node rtb@localhost
+2021-04-08 21:14:14.378 [info] <0.33.0> Application p1_utils started on node rtb@localhost
+2021-04-08 21:14:14.381 [info] <0.33.0> Application fast_yaml started on node rtb@localhost
+2021-04-08 21:14:14.382 [info] <0.33.0> Application oneup started on node rtb@localhost
+2021-04-08 21:14:14.390 [info] <0.33.0> Application asn1 started on node rtb@localhost
+2021-04-08 21:14:14.390 [info] <0.33.0> Application public_key started on node rtb@localhost
+2021-04-08 21:14:14.407 [info] <0.33.0> Application ssl started on node rtb@localhost
+2021-04-08 21:14:14.408 [info] <0.33.0> Application cowlib started on node rtb@localhost
+2021-04-08 21:14:14.409 [info] <0.33.0> Application gun started on node rtb@localhost
+2021-04-08 21:14:14.412 [info] <0.142.0>@rtb_config:load_config:84 Loading configuration from rtb.yml
+2021-04-08 21:14:14.421 [info] <0.33.0> Application fast_xml started on node rtb@localhost
+2021-04-08 21:14:14.423 [info] <0.33.0> Application stringprep started on node rtb@localhost
+2021-04-08 21:14:14.430 [info] <0.33.0> Application fast_tls started on node rtb@localhost
+2021-04-08 21:14:14.435 [info] <0.33.0> Application ezlib started on node rtb@localhost
+2021-04-08 21:14:14.447 [info] <0.33.0> Application xmpp started on node rtb@localhost
+2021-04-08 21:14:14.447 [info] <0.142.0>@rtb_config:prep_option:405 Capacity is 10 sessions
+2021-04-08 21:14:14.452 [info] <0.142.0>@rtb_config:prep_option:452 Found /usr/bin/gnuplot 5.2 patchlevel 2
+2021-04-08 21:14:14.452 [info] <0.142.0>@rtb_config:prep_option:402 Arrival rate is 10.0 conn/sec
+2021-04-08 21:14:14.473 [info] <0.142.0>@rtb_config:check_files_limit:244 Maximum available files from ulimit: 1024
+2021-04-08 21:14:14.473 [info] <0.142.0>@rtb_config:check_files_limit:245 Maximum available files from fs.file-max: 6269055
+2021-04-08 21:14:14.473 [info] <0.142.0>@rtb_config:check_files_limit:246 Maximum available files from fs.nr_open: 1048576
+2021-04-08 21:14:14.473 [info] <0.142.0>@rtb_config:check_process_limit:258 Maximum available Erlang processes: 65536
+2021-04-08 21:14:14.473 [info] <0.142.0>@rtb_config:check_port_limit:271 Maximum available Erlang ports: 65536
+2021-04-08 21:14:14.525 [info] <0.141.0>@rtb_http:start_link:37 Accepting HTTP connections on port 8080
+2021-04-08 21:14:14.546 [info] <0.33.0> Application sasl started on node rtb@localhost
+2021-04-08 21:14:14.557 [info] <0.33.0> Application os_mon started on node rtb@localhost
+2021-04-08 21:14:14.557 [info] <0.33.0> Application rtb started on node rtb@localhost
+2021-04-08 21:14:14.561 [critical] <0.192.0>@rtb:halt:123 Benchmark failure: Authentication failed: Peer responded with error: Invalid username or password (not-authorized)
+2021-04-08 21:14:14.562 [info] <0.33.0> Application sasl exited with reason: stopped
+2021-04-08 21:22:12.522 [info] <0.33.0> Application lager started on node rtb@localhost
+2021-04-08 21:22:12.522 [notice] <0.84.0>@lager_file_backend:152 Changed loghwm of log/rtb.log to 10000
+2021-04-08 21:22:12.527 [info] <0.33.0> Application crypto started on node rtb@localhost
+2021-04-08 21:22:12.557 [info] <0.33.0> Application inets started on node rtb@localhost
+2021-04-08 21:22:12.558 [info] <0.33.0> Application p1_utils started on node rtb@localhost
+2021-04-08 21:22:12.562 [info] <0.33.0> Application fast_yaml started on node rtb@localhost
+2021-04-08 21:22:12.563 [info] <0.33.0> Application oneup started on node rtb@localhost
+2021-04-08 21:22:12.572 [info] <0.33.0> Application asn1 started on node rtb@localhost
+2021-04-08 21:22:12.572 [info] <0.33.0> Application public_key started on node rtb@localhost
+2021-04-08 21:22:12.589 [info] <0.33.0> Application ssl started on node rtb@localhost
+2021-04-08 21:22:12.591 [info] <0.33.0> Application cowlib started on node rtb@localhost
+2021-04-08 21:22:12.592 [info] <0.33.0> Application gun started on node rtb@localhost
+2021-04-08 21:22:12.594 [info] <0.142.0>@rtb_config:load_config:84 Loading configuration from rtb.yml
+2021-04-08 21:22:12.603 [info] <0.33.0> Application fast_xml started on node rtb@localhost
+2021-04-08 21:22:12.606 [info] <0.33.0> Application stringprep started on node rtb@localhost
+2021-04-08 21:22:12.612 [info] <0.33.0> Application fast_tls started on node rtb@localhost
+2021-04-08 21:22:12.617 [info] <0.33.0> Application ezlib started on node rtb@localhost
+2021-04-08 21:22:12.625 [info] <0.33.0> Application xmpp started on node rtb@localhost
+2021-04-08 21:22:12.626 [info] <0.142.0>@rtb_config:prep_option:405 Capacity is 10 sessions
+2021-04-08 21:22:12.630 [info] <0.142.0>@rtb_config:prep_option:452 Found /usr/bin/gnuplot 5.2 patchlevel 2
+2021-04-08 21:22:12.631 [info] <0.142.0>@rtb_config:prep_option:402 Arrival rate is 10.0 conn/sec
+2021-04-08 21:22:12.651 [info] <0.142.0>@rtb_config:check_files_limit:244 Maximum available files from ulimit: 1024
+2021-04-08 21:22:12.651 [info] <0.142.0>@rtb_config:check_files_limit:245 Maximum available files from fs.file-max: 6269055
+2021-04-08 21:22:12.651 [info] <0.142.0>@rtb_config:check_files_limit:246 Maximum available files from fs.nr_open: 1048576
+2021-04-08 21:22:12.651 [info] <0.142.0>@rtb_config:check_process_limit:258 Maximum available Erlang processes: 65536
+2021-04-08 21:22:12.651 [info] <0.142.0>@rtb_config:check_port_limit:271 Maximum available Erlang ports: 65536
+2021-04-08 21:22:12.705 [info] <0.141.0>@rtb_http:start_link:37 Accepting HTTP connections on port 8080
+2021-04-08 21:22:12.728 [info] <0.33.0> Application sasl started on node rtb@localhost
+2021-04-08 21:22:12.737 [info] <0.33.0> Application os_mon started on node rtb@localhost
+2021-04-08 21:22:12.737 [info] <0.33.0> Application rtb started on node rtb@localhost
+2021-04-08 21:22:12.739 [critical] <0.192.0>@rtb:halt:123 Benchmark failure: Authentication failed: Peer responded with error: Invalid username or password (not-authorized)
+2021-04-08 21:22:12.739 [info] <0.33.0> Application sasl exited with reason: stopped
+2021-04-08 21:22:38.131 [info] <0.33.0> Application lager started on node rtb@localhost
+2021-04-08 21:22:38.131 [notice] <0.84.0>@lager_file_backend:152 Changed loghwm of log/rtb.log to 10000
+2021-04-08 21:22:38.135 [info] <0.33.0> Application crypto started on node rtb@localhost
+2021-04-08 21:22:38.157 [info] <0.33.0> Application inets started on node rtb@localhost
+2021-04-08 21:22:38.159 [info] <0.33.0> Application p1_utils started on node rtb@localhost
+2021-04-08 21:22:38.162 [info] <0.33.0> Application fast_yaml started on node rtb@localhost
+2021-04-08 21:22:38.162 [info] <0.33.0> Application oneup started on node rtb@localhost
+2021-04-08 21:22:38.169 [info] <0.33.0> Application asn1 started on node rtb@localhost
+2021-04-08 21:22:38.169 [info] <0.33.0> Application public_key started on node rtb@localhost
+2021-04-08 21:22:38.182 [info] <0.33.0> Application ssl started on node rtb@localhost
+2021-04-08 21:22:38.183 [info] <0.33.0> Application cowlib started on node rtb@localhost
+2021-04-08 21:22:38.184 [info] <0.33.0> Application gun started on node rtb@localhost
+2021-04-08 21:22:38.186 [info] <0.142.0>@rtb_config:load_config:84 Loading configuration from rtb.yml
+2021-04-08 21:22:38.194 [info] <0.33.0> Application fast_xml started on node rtb@localhost
+2021-04-08 21:22:38.196 [info] <0.33.0> Application stringprep started on node rtb@localhost
+2021-04-08 21:22:38.201 [info] <0.33.0> Application fast_tls started on node rtb@localhost
+2021-04-08 21:22:38.206 [info] <0.33.0> Application ezlib started on node rtb@localhost
+2021-04-08 21:22:38.213 [info] <0.33.0> Application xmpp started on node rtb@localhost
+2021-04-08 21:22:38.213 [info] <0.142.0>@rtb_config:prep_option:405 Capacity is 10 sessions
+2021-04-08 21:22:38.218 [info] <0.142.0>@rtb_config:prep_option:452 Found /usr/bin/gnuplot 5.2 patchlevel 2
+2021-04-08 21:22:38.218 [info] <0.142.0>@rtb_config:prep_option:402 Arrival rate is 10.0 conn/sec
+2021-04-08 21:22:38.239 [info] <0.142.0>@rtb_config:check_files_limit:244 Maximum available files from ulimit: 1024
+2021-04-08 21:22:38.239 [info] <0.142.0>@rtb_config:check_files_limit:245 Maximum available files from fs.file-max: 6269055
+2021-04-08 21:22:38.239 [info] <0.142.0>@rtb_config:check_files_limit:246 Maximum available files from fs.nr_open: 1048576
+2021-04-08 21:22:38.239 [info] <0.142.0>@rtb_config:check_process_limit:258 Maximum available Erlang processes: 65536
+2021-04-08 21:22:38.239 [info] <0.142.0>@rtb_config:check_port_limit:271 Maximum available Erlang ports: 65536
+2021-04-08 21:22:38.289 [info] <0.141.0>@rtb_http:start_link:37 Accepting HTTP connections on port 8080
+2021-04-08 21:22:38.320 [info] <0.33.0> Application sasl started on node rtb@localhost
+2021-04-08 21:22:38.325 [critical] <0.192.0>@rtb:halt:123 Benchmark failure: Authentication failed: Peer responded with error: Invalid username or password (not-authorized)
+2021-04-08 21:22:38.328 [info] <0.33.0> Application sasl exited with reason: stopped
+2021-04-08 21:24:22.688 [info] <0.33.0> Application lager started on node rtb@localhost
+2021-04-08 21:24:22.688 [notice] <0.84.0>@lager_file_backend:152 Changed loghwm of log/rtb.log to 10000
+2021-04-08 21:24:22.693 [info] <0.33.0> Application crypto started on node rtb@localhost
+2021-04-08 21:24:22.723 [info] <0.33.0> Application inets started on node rtb@localhost
+2021-04-08 21:24:22.725 [info] <0.33.0> Application p1_utils started on node rtb@localhost
+2021-04-08 21:24:22.729 [info] <0.33.0> Application fast_yaml started on node rtb@localhost
+2021-04-08 21:24:22.730 [info] <0.33.0> Application oneup started on node rtb@localhost
+2021-04-08 21:24:22.739 [info] <0.33.0> Application asn1 started on node rtb@localhost
+2021-04-08 21:24:22.739 [info] <0.33.0> Application public_key started on node rtb@localhost
+2021-04-08 21:24:22.756 [info] <0.33.0> Application ssl started on node rtb@localhost
+2021-04-08 21:24:22.757 [info] <0.33.0> Application cowlib started on node rtb@localhost
+2021-04-08 21:24:22.758 [info] <0.33.0> Application gun started on node rtb@localhost
+2021-04-08 21:24:22.761 [info] <0.142.0>@rtb_config:load_config:84 Loading configuration from rtb.yml
+2021-04-08 21:24:22.770 [info] <0.33.0> Application fast_xml started on node rtb@localhost
+2021-04-08 21:24:22.772 [info] <0.33.0> Application stringprep started on node rtb@localhost
+2021-04-08 21:24:22.778 [info] <0.33.0> Application fast_tls started on node rtb@localhost
+2021-04-08 21:24:22.784 [info] <0.33.0> Application ezlib started on node rtb@localhost
+2021-04-08 21:24:22.797 [info] <0.33.0> Application xmpp started on node rtb@localhost
+2021-04-08 21:24:22.797 [info] <0.142.0>@rtb_config:prep_option:405 Capacity is 10 sessions
+2021-04-08 21:24:22.802 [info] <0.142.0>@rtb_config:prep_option:452 Found /usr/bin/gnuplot 5.2 patchlevel 2
+2021-04-08 21:24:22.802 [info] <0.142.0>@rtb_config:prep_option:402 Arrival rate is 10.0 conn/sec
+2021-04-08 21:24:22.823 [info] <0.142.0>@rtb_config:check_files_limit:244 Maximum available files from ulimit: 1024
+2021-04-08 21:24:22.823 [info] <0.142.0>@rtb_config:check_files_limit:245 Maximum available files from fs.file-max: 6269055
+2021-04-08 21:24:22.823 [info] <0.142.0>@rtb_config:check_files_limit:246 Maximum available files from fs.nr_open: 1048576
+2021-04-08 21:24:22.823 [info] <0.142.0>@rtb_config:check_process_limit:258 Maximum available Erlang processes: 65536
+2021-04-08 21:24:22.823 [info] <0.142.0>@rtb_config:check_port_limit:271 Maximum available Erlang ports: 65536
+2021-04-08 21:24:22.877 [info] <0.141.0>@rtb_http:start_link:37 Accepting HTTP connections on port 8080
+2021-04-08 21:24:22.898 [info] <0.33.0> Application sasl started on node rtb@localhost
+2021-04-08 21:24:22.906 [info] <0.33.0> Application os_mon started on node rtb@localhost
+2021-04-08 21:24:22.906 [info] <0.33.0> Application rtb started on node rtb@localhost

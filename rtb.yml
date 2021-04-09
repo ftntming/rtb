@@ -1,0 +1,39 @@
+###
+###              RTB configuration file
+###
+### The parameters used in this configuration file are explained at
+###
+###  https://github.com/processone/rtb/blob/master/README.md
+###
+### The configuration file is written in YAML
+###
+### *******************************************************
+### *******           !!! WARNING !!!               *******
+### *******     YAML IS INDENTATION SENSITIVE       *******
+### ******* MAKE SURE YOU INDENT SECTIONS CORRECTLY *******
+### *******************************************************
+###
+
+### Mandatory options: common for all scenarios
+scenario: xmpp
+interval: 100
+capacity: 10
+certfile: cert.pem
+
+### Mandatory options for XMPP scenario
+jid: user%@localhost
+password: pass%
+
+### Server addresses
+### Optional, but highly recommended to set
+servers:
+   - tcp://192.168.2.90:5222
+
+
+### An HTTP port for the statistics web interface
+www_port: 8080
+
+### Local Variables:
+### mode: yaml
+### End:
+### vim: set filetype=yaml tabstop=8

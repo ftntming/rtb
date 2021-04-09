@@ -1,0 +1,11 @@
+{application,rtb,
+             [{description,"XMPP Benchmarking tool"},
+              {vsn,"1.0.0"},
+              {modules,[mod_mqtt,mod_xmpp,mod_xmpp_http,mod_xmpp_proxy65,
+                        mqtt_codec,mqtt_socket,rtb,rtb_config,rtb_http,
+                        rtb_plot,rtb_pool,rtb_sm,rtb_stats,rtb_sup,
+                        rtb_watchdog]},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{rtb,[]}},
+              {env,[]}]}.

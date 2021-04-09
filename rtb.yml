@@ -16,21 +16,27 @@
 
 ### Mandatory options: common for all scenarios
 scenario: xmpp
-interval: 100
-capacity: 1
+interval: 1
+capacity: 4096
 starttls: false
 # certfile: cert.pem
-debug: true
 
+debug: false
+# csi: false
+# mam: false
+#sm: false
+# roster: falsehttps://github.com/ftntming/ejabberd-gen-testdata/blob/master/main.cpp
+# http_upload_interval: false
+# proxy65_interval: falsehttps://github.com/ftntming/ejabberd-gen-testdata/blob/master/main.cpp
 
 ### Mandatory options for XMPP scenario
-jid: user%@localhost
-password: pass%
+jid: u%@localhost
+password: u%
 
 ### Server addresses
 ### Optional, but highly recommended to set
 servers:
-   - tcp://192.168.2.90:5222
+   - tcp://192.168.2.99:5222
 
 
 ### An HTTP port for the statistics web interface

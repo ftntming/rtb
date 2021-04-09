@@ -17,8 +17,11 @@
 ### Mandatory options: common for all scenarios
 scenario: xmpp
 interval: 100
-capacity: 10
-certfile: cert.pem
+capacity: 1
+starttls: false
+# certfile: cert.pem
+debug: true
+
 
 ### Mandatory options for XMPP scenario
 jid: user%@localhost
